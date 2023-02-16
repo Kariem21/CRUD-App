@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "title": "iphone7",
+      "price": "7000",
+      "id": 4,
+      "image": "../images/images (4.jpeg"
+    },
+    {
+      "title": "iphone8",
+      "price": "8000",
+      "id": 5,
+      "image": "../images/images (5).jpeg"
+    },
+    {
+      "title": "iphone9",
+      "price": "9000",
+      "id": 6,
+      "image": "../images/images (6).jpeg"
+    },
+    {
+      "title": "iphone10",
+      "price": "10000",
+      "id": 7,
+      "image": "../images/images (7).jpeg"
+    },
+    {
+      "title": "iphone11",
+      "price": "11000",
+      "id": 8
+    },
+    {
+      "title": "ad",
+      "price": "524",
+      "id": 9
+    },
+    {
+      "title": "asa",
+      "price": "5",
+      "id": 10
+    },
+    {
+      "title": "wegt",
+      "price": "857",
+      "id": 11
+    },
+    {
+      "title": "rxfr",
+      "price": "452",
+      "id": 12
+    },
+    {
+      "title": "شثب654",
+      "price": "64",
+      "id": 13
+    },
+    {
+      "title": "شثب654",
+      "price": "64",
+      "id": 14
+    },
+    {
+      "title": "شثب654",
+      "price": "64",
+      "id": 15
+    },
+    {
+      "title": "شثب654",
+      "price": "64",
+      "id": 16
+    },
+    {
+      "title": "شثب654",
+      "price": "64",
+      "id": 17
+    },
+    {
+      "title": "شثب654",
+      "price": "64",
+      "id": 18
+    },
+    {
+      "title": "شثب654",
+      "price": "64",
+      "id": 19
+    },
+    {
+      "title": "afa",
+      "price": "64",
+      "id": 20
+    },
+    {
+      "title": "sac",
+      "price": "654",
+      "id": 21
+    }
+  ]
+}
